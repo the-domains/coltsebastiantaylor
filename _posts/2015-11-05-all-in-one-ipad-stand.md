@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: 'A great place to put your iPad. This video has multiple references in it.  '
-datePublished: '2015-11-05T03:38:42.257Z'
-dateModified: '2015-11-05T03:38:37.563Z'
+datePublished: '2015-11-05T03:42:21.159Z'
+dateModified: '2015-11-05T03:42:17.043Z'
 title: All In One iPad Stand
 sourcePath: _posts/2015-11-05-all-in-one-ipad-stand.md
 published: true
