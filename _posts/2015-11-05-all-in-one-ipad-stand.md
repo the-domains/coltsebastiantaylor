@@ -1,13 +1,14 @@
 ---
 inFeed: false
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=nOgPAVC5bnE'
 inLanguage: null
 starred: false
 keywords: []
 description: 'A great place to put your iPad. This video has multiple references in it.  '
-datePublished: '2015-11-05T13:28:21.504Z'
-dateModified: '2015-11-05T13:28:19.561Z'
+datePublished: '2015-11-05T19:17:23.603Z'
+dateModified: '2015-11-05T18:10:04.269Z'
 title: All In One iPad Stand
 sourcePath: _posts/2015-11-05-all-in-one-ipad-stand.md
 published: true
@@ -17,8 +18,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: all-in-one-ipad-stand/index.html
-_type: Blurb
+_type: MediaObject
 
 ---
 The[All In One iPad Stand][0] is a great place to rest your iPad and other electronic devices while they are charging. Officially, it is designed to be on your nightstand, but I think it is far more effective being on your desk at work or in a home office. It seems to be made of very durable plastic, so it'll last quite a while as you drop in your iPhone, keys, and whatever else you need to store near your electronic devices.
