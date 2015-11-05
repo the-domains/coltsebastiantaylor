@@ -2,12 +2,13 @@ name: ColtSebastianTaylor
 favicon: null
 layout_spectrum: 0.46240388764999807
 typography_spectrum: 0.9667334072291851
+title: Colt Sebastian Taylor
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-29235913-2
   facebook: null
   twitter: null
 opengraph:
